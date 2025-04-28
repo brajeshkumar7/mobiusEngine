@@ -1,0 +1,47 @@
+.inner3 {
+    margin: 113px 128px;
+}
+
+.line3 {
+    width: 20vw;
+}
+
+.addresses {
+    display: flex;
+}
+
+.address {
+    color: #0649E7;
+    width: 22%;
+}
+
+.email {
+    color: #0649E7;
+    width: 22%;
+}
+
+.telephone {
+    color: #0649E7;
+    width: 40%;
+}
+
+.socials {
+    color: #0649E7;
+    width: 18%;
+}
+
+.logo {
+    display: flex;
+}
+
+.adresses div {
+    color: #0649E7;
+}
+
+.circle {
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 9px;
+    margin-right: 10px;
+    margin-top: 8px;
+}

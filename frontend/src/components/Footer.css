@@ -1,0 +1,22 @@
+.inner4 {
+    height: 10vh;
+    background-color: #0649E7;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.copyright {
+    width: 70%;
+    color: white;
+}
+
+.terms {
+    width: 20%;
+    color: white;
+}
+
+.privacy {
+    width: 10%;
+    color: white;
+}

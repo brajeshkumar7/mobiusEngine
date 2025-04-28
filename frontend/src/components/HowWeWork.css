@@ -1,0 +1,88 @@
+.how-we-work-main {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.first-container {
+    margin-top: 90px;
+    margin-left: 128px;
+    width: 251px;
+    height: 42px;
+}
+
+.first-container a {
+    font-family: dm sans;
+    font-weight: 500;
+    font-size: 39px;
+    color: #0649E7;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.second-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 120px;
+    margin-left: 128px;
+    margin-bottom: 150px;
+}
+
+.first-box {
+    height: 231px;
+    width: 214px;
+    border: none;
+}
+
+.number {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 81.65px;
+    height: 81.65px;
+    border: solid 1.51px #022183;
+    border-radius: 50px;
+}
+
+.number p {
+    font-family: dm sans;
+    font-weight: 400;
+    font-size: 56px;
+}
+
+.line {
+    width: 213px;
+    border: 2px solid #0649E7;
+    margin-top: 10px;
+}
+
+.text {
+    width: 248px;
+    height: 27px;
+    font-family: dm sans;
+    font-weight: 500;
+    font-size: 26px;
+    color: #0649E7;
+    margin-top: 15px;
+}
+
+.second-box {
+    height: 231px;
+    width: 239px;
+    border: none;
+    margin-left: 87px;
+}
+
+.third-box {
+    height: 231px;
+    width: 248px;
+    border: none;
+    margin-left: 87px;
+}
+
+.fourth-box {
+    height: 231px;
+    width: 248px;
+    border: none;
+    margin-left: 87px;
+}

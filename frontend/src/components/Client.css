@@ -1,0 +1,102 @@
+.main-client {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.heading {
+    margin-left: 128px;
+    margin-top: 100px;
+    color: #0649E7;
+    width: 492px;
+    height: 42px;
+    font-family: dm sans;
+    font-weight: 500;
+    font-size: 39px;
+    text-decoration: none;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 128px;
+    width: 1230px;
+}
+
+.first-box-client {
+    width: 350px;
+    height: 450px;
+    border: solid 2px #0649E7;
+    border-radius: 35px;
+    background-color: #0649E7;
+}
+
+.first-box-client div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 347.38px;
+    height: 263px;
+    border: solid 2px #0649E7;
+    border-radius: 35px;
+    background-color: white;
+    margin: 0px;
+}
+
+.first-box-client div .playbtn {
+    width: 47px;
+    height: 47px;
+    background-color: #0649E7;
+    border-radius: 23px;
+}
+
+.first-box-client p {
+    margin: 31px;
+    font-family: dm sans;
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+}
+
+.first-box-client p span {
+    font-family: dm sans;
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+}
+
+.buttons .btn1-client {
+    width: 350px;
+    height: 62px;
+    border: solid 2px #0649E7;
+    border-radius: 35px;
+    color: #0649E7;
+    background-color: white;
+    font-family: dm sans;
+    font-weight: 400;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+
+.buttons .btn2-client {
+    width: 211px;
+    height: 62px;
+    border: solid 2px #0649E7;
+    border-radius: 35px;
+    color: white;
+    background-color: #0649E7;
+    font-family: dm sans;
+    font-weight: 600;
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 100px;
+
+}

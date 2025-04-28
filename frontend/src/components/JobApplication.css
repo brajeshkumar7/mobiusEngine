@@ -1,0 +1,130 @@
+.inner {
+    margin: 0px 128px;
+}
+
+.job-apply {
+    font-family: sans-serif;
+    font-size: 40px;
+    color: #0649E7;
+    padding-bottom: 50px;
+    margin-top: 150px;
+}
+
+.job-apply :hover {
+    text-decoration: underline;
+}
+
+.table {
+    width: 359px;
+    height: 658px;
+    border: 2px solid #0649E7;
+    border-radius: 35px;
+}
+
+.content {
+    padding: 28px;
+}
+
+.content div {
+    padding-bottom: 22px;
+}
+
+.apply {
+    display: flex;
+    justify-content: space-around;
+}
+
+.head {
+    height: 41px;
+    color: #0649E7;
+    font-size: 32px;
+}
+
+.head :hover {
+    text-decoration: underline;
+}
+
+.money {
+    font-size: 56px;
+    color: #0649E7;
+}
+
+.money :hover {
+    text-decoration: underline;
+}
+
+.money span {
+    font-size: 26px;
+    color: #0649E7;
+}
+
+.line4 hr {
+    height: 1px;
+    width: 328px;
+    border: 1px;
+    background-color: #BCBCBC;
+}
+
+.desc {
+    width: 308px;
+    height: 289px;
+}
+
+.btn {
+    width: 211px;
+    height: 62px;
+    border-radius: 36px;
+    background-color: #0649E7;
+    color: white;
+    font-size: 21px;
+    margin-top: 25px;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+.advance img {
+    width: 1170px;
+}
+
+.money2 {
+    font-size: 56px;
+    color: white;
+    top: 90px;
+    position: relative;
+    left: 61.5vw;
+    width: fit-content;
+}
+
+.money2 :hover {
+    text-decoration: underline;
+}
+
+.money2 span {
+    font-size: 26px;
+    color: white;
+}
+
+.btn2 {
+    width: 211px;
+    height: 62px;
+    border-radius: 36px;
+    background-color: white;
+    color: #0649E7;
+    font-size: 21px;
+    position: relative;
+    top: -14vh;
+    left: 60.5vw;
+}
+
+.btn2:hover {
+    cursor: pointer;
+}
+
+.line2 hr {
+    height: 2px;
+
+    border: 1px;
+    background-color: #BCBCBC;
+}

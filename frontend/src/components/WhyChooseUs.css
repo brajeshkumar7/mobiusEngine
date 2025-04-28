@@ -1,0 +1,82 @@
+.why-choose-us {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.heading-why {
+    margin-left: 128px;
+    margin-top: 150px;
+    color: #022189;
+    width: 296px;
+    height: 42px;
+    font-family: dm sans;
+    font-weight: 500;
+    font-size: 39px;
+    text-decoration: none;
+}
+
+.main-container-why {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 128px;
+    margin-top: 100px;
+    width: 1230px;
+}
+
+.first-box-why {
+    width: 359px;
+    height: 316px;
+    border: solid 2px #022183;
+    border-radius: 35px;
+    background-color: white;
+}
+
+.second-box-why {
+    width: 359px;
+    height: 316px;
+    border: solid 2px #022183;
+    border-radius: 35px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: white;
+}
+
+.third-box-why {
+    width: 359px;
+    height: 316px;
+    border: solid 2px #022183;
+    border-radius: 35px;
+    background-color: white;
+}
+
+.logo-why {
+    width: 65px;
+    height: 56px;
+    margin-left: 30px;
+    margin-top: 30px;
+
+}
+
+.line-why {
+    width: 288px;
+    height: 41px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-family: dm sans;
+    font-weight: 6600;
+    font-size: 24px;
+    color: #022183;
+}
+
+.text-why {
+    width: 295px;
+    height: 57px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-family: dm sans;
+    font-weight: 400;
+    font-size: 18px;
+    color: #022183;
+}
