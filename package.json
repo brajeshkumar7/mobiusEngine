@@ -1,0 +1,12 @@
+{
+  "name": "mobiassign",
+  "version": "1.0.0",
+  "description": "this is simple landing page of the mobiusEngine",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix frontend && npm run build --prefix frontend"
+  },
+  "keywords": [],
+  "author": "brajesh kumar",
+  "license": "MIT"
+}
