@@ -1,12 +1,57 @@
-# React + Vite
+# 🚀 MobiusEngine
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple landing page for the application of mobiusEngine. The application is deployed and live on [Render](https://render.com/).
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Visit the Live Website](https://mobiusengine.onrender.com/)  
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- A simple template landing page showing all the features of mobiusEngine.
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+- HTML, CSS, JavaScript  
+- React.js 
+- Custom Css
+- Images used from Figma
+
+**Deployment:**  
+- Render (Cloud hosting)
+
+## 📦 Dependencies
+
+**Frontend:**  
+- React
+- React-Dom 
+- React-Router   
+
+## 📦 Installation
+
+**Clone repo**
+```terminal
+git clone https://github.com/brajeshkumar7/mobiusEngine
+cd frontend
+```
+
+**Install dependencies**
+```terminal
+npm install
+```
+
+## 🚀 Run Locally
+```terminal
+cd frontend
+npm run dev
+```
+
+This site should be running locally at http://localhost:5173
+
+
+
+
+
+
